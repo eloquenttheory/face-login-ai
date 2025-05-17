@@ -53,8 +53,8 @@ face_recognition
 
 This project is part of my learning journey in the **3 Million Technical Talent (3MTT)** program, under the **Cybersecurity** track. It shows how AI can improve security systems through biometric authentication.
 
-## 📫 Contact
+📫 Contact
 
-Created by [Your Full Name]  
+Created by Isah Yusuf  
 3MTT Cohort 3 Fellow (Cybersecurity Track)  
-Email: [your.email@example.com]
+Email: isahyusuf3488@gmail.com
